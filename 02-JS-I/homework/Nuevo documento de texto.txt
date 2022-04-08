@@ -1,0 +1,12 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. 
+Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Variables : Es la forma en que un lenguaje de programacion nos permite guardar un tipo de dato de cualquier tipo. Los tipos de datos pueden ser numeros, texto entre otros. 
+	* Strings : Es un tipo de dato que almacena cadenas de texto.
+	* Funciones (argumentos, `return`) : Una funcion es un objeto dentro del codigo fuente que puede poseer argumentos (Variables) con los que se ejecuta una instruccion para 
+    posteriormente devolverlo por medio del metodo return.
+	* Declaraciones `if` : Es una estructura de control que nos permite condicionar algo especifico para ejecutar una accion dependiendo si esta condicion se cumple o no.
+    If traduce literalmente del ingles un si condicional.
+	* Valores booleanos (`true`, `false`) : Un Valor booleanos solo puede tener dos opciones que son falso o verdadero.  
+
+    
