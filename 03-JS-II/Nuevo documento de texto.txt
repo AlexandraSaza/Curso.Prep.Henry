@@ -1,0 +1,6 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `for` Es una setencia de control que permite hacer recorridos generalmente de numeros.
+* `&&` Es el operador logico y (and) sirve para complementar condiciones de tal forma que se tenga que cumplir toda la condicion completa para un resultado true. 
+`||` Es el operador logico o (or) sirvr para que la condicion se pueda cumplir de forma parcial.
+ `!` Es el operador logico no (Not) es la negacion de cualquier resultado cambiandolo a lo opuesto: Ejemplo !true= false.
