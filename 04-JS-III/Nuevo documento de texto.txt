@@ -1,0 +1,5 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará 
+a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Arrays : Es una lista de elementos que pueden aceptar todo tipo de datos se define por [] y los elementos van separados por comas,ejemplo [1, 2, 3, ], un elemento tambien
+    puede ser una funcion, booleano y se pueden hacer operaciones con cada uno de estos elementos.
