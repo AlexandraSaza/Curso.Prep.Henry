@@ -1,0 +1,9 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Objetos : Es una coleccion de propiedades, se puede tener mucha informacion de una sola cosa identificandolas por medio de Keys y Valores respectivos para cada Key
+	* Propiedades : Son las caracteristica del objeto 
+	* Métodos : Son las funciones que guardamos en un objeto.
+	* Bucle `for…in`:  cumple la funcion de iterar una variable puntual e identificada sobre todas las demas propiedades que se encuentran en el objeto.
+	* Notación de puntos vs notación de corchetes:
+		Notacion de puntos: Permite hacer el llamado de una propiedad de un objeto que este identificado dentro del codigo fuente que estemos desarrollando.
+		Notacion de Breakets o corchetes: Permite hacer el llamado de una propiedad especifica que conocemos y que no esta identificada dentro del codigo fuente, por ende estaria dentro de comillas.
