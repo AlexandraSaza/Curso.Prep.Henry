@@ -1,0 +1,4 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `prototype`: Algo que nos permite hacer recurrencia en objetos para hacer una especie de plantilla que nos permita optimizar recursos.
+* _Constructors_ (de Clases): Son las caracteristicas de esa plantilla o prototipo.
