@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+
+<style>
+
+h1{
+color: deepskyblue;
+}
+
+
+img{
+width:400px;
+}
+
+#thirdDiv{
+height: 600px;
+width: 500px;
+Background-color: pink; 
+padding: 50px;
+border: thick double mediumorchid;
+}
+
+#spanId{
+font-size: 18px;
+margin: 50px;
+}
+
+
+
+ 
+
+</style>
+
+<title>Tarea HTML de Yuli Alexandra Saza Zapata</title>
+
+</head>
+
+<body>
+
+<div class="divClass">
+<h1>Yuli Alexandra Saza Zapata</h1>
+<h3>Henry</h3>
+<h4>tarea de HTML / CSS</h4>
+</div>
+
+<div class="divClass">
+<span id="spanId">Mi comida favorita es la bandeja paisa. La bandeja paisa contiene frijoles, arroz, platano, carne, chicharron, aguacate y huevo frito.</span>
+<a href="https://www.americanabbq.co"> Mi Restaurante Favorito</a>
+</div>
+
+<div id="thirdDiv">
+<ul>
+<li>
+<span>Chicharron</span>
+<img src="https://4.bp.blogspot.com/-TlD2ADLteCo/VVFyih2fKpI/AAAAAAAACOQ/vSAh93ZeKM4/s1600/Chicharr%C3%B3n%2BSySPMS.jpg"/>
+</li>
+<li>
+<span>Aguacate</span>
+<img src="https://storage.contextoganadero.com/s3fs-public/styles/noticias_one/public/agricultura/field_image/aguacate_0.jpg?itok=FSl7tvF0"/>
+</li>
+</ul>
+</div>
+
+</body>
+
+</html>
