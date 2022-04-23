@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-
+<link rel="stylesheet" href="style.css">
 <style>
 
 h1{
@@ -26,6 +26,19 @@ font-size: 18px;
 margin: 50px;
 }
 
+html{
+background-image: url("https://img.freepik.com/vector-gratis/fondo-pintura-acuarela-rosa-vibrante_53876-58930.jpg?w=2000")
+
+}
+
+div{
+margin: 0 auto;
+}
+
+html{
+text-align: center;
+align-items: flex-start;
+}
 
 
  
